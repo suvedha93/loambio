@@ -19,11 +19,7 @@ This project processes and analyzes paddock (field) data from a GeoJSON file, cl
 3. The cleaned data will be saved as `cleaned_paddocks.csv`, and a bar chart will be displayed.
 
 
-# Data Engineering Workflow with Multiple GCP Components
-
-# Example GCP Data Engineering Pipeline for Paddock Data
-
-This workflow can be implemented using several Google Cloud Platform (GCP) components for scalable, production-grade data engineering:
+# Data Engineering Workflow with GCP Components
 
 1. Cloud Storage (GCS)
    - Store raw GeoJSON files and cleaned CSV outputs.
